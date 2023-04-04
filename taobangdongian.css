@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.z{
+    color: aqua;
+    margin-left: auto;
+    text-align: left;
+}
+.y{
+    color: aqua;
+    margin-left: auto;
+    text-align: right;
+}
+.t{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.d{
+    background-color: white;
+    text-align: center;
+}
+
+.e{
+    background-color: yellow;
+    text-align: center;
+}
+
+.f{
+    background-color: orange;
+    text-align: center;
+}
